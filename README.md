@@ -15,7 +15,7 @@
 
    |:house:| Taiping, Perak |
 |--|--|
-| :books: |<p><pre>High School :</pre> <span style="font-family:Lucida Console"> SMK St. George <p><pre>College :</pre> Perak Matriculation College</p> <p><pre>University :</pre> University Technology Malaysia  |
+   | :books: |<p>High School :<pre> <span style="font-family:Lucida Console"> SMK St. George </pre><p><pre>College :<pre> Perak Matriculation College</pre></p> <p>University :<pre> University Technology Malaysia </pre>|
 | :basketball:|Basketballer|
 | :computer::iphone:| Playing Games
  
