@@ -7,6 +7,6 @@
 <br>
 <br>
 
-<p align="center" ; margin="0"><font style="font-family:Arial, Helvetica, sans-serif">Greetings everybody, my name is <h3><b><font color="green">Marcus Joey Sayner</font>:wave:</b></h3></font></center></p>
+<p align="center" ; style="margin:0"><font style="font-family:Arial, Helvetica, sans-serif">Greetings everybody, my name is <h3><b><font color="green"><p align=center">Marcus Joey Sayner</p></font>:wave:</b></h3></font></center></p>
 </head>
 
