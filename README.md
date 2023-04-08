@@ -16,7 +16,8 @@
    <p>🏡 Taiping, Perak.</p>
    <p>📚 High School : SMK St. George. </p>
    <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;College : Perak Matriculation College.</p>
-   <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University : University Technology Malaysia (UTM)</p>
+   <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University : University Technology Malaysia </p>
+   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(UTM)</p>
    <p>🏀 Basketballer</p>
    <p>🖥️ Playing Computer Games</p>
    <p>📱 Playing Mobile Games</p>
