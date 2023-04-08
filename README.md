@@ -12,7 +12,7 @@
 
  <hr>
   
- <img src="https://res.cloudinary.com/cloudinary-marketing/images/c_fill,w_750/f_auto,q_auto/v1649720751/Web_Assets/blog/Mario_1/Mario_1-gif?_i=AA" height="200" ; width="400"; align="right">
+ <img src="https://res.cloudinary.com/cloudinary-marketing/images/c_fill,w_750/f_auto,q_auto/v1649720751/Web_Assets/blog/Mario_1/Mario_1-gif?_i=AA" height="200" ; width="400" align="right">
    |:house:| Taiping, Perak |
 |--|--|
    | :books: |<p>High School :<pre>SMK St. George</p></pre><p>College :<pre> Perak Matriculation College</pre></p> <p>University :<pre> University Technology Malaysia </pre>|
