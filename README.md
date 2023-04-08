@@ -11,12 +11,12 @@
 <p align="justify"> I am currently a first-year student which studying Data Engineering Course at University Technology Malaysia (UTM). I have already developed 3 types of programming language such as HTML, C++ and Java. I am excited to learn more programming languages.<p>
 
  <hr>
- <img src="https://res.cloudinary.com/cloudinary-marketing/images/c_fill,w_750/f_auto,q_auto/v1649720751/Web_Assets/blog/Mario_1/Mario_1-gif?_i=AA" height="200" ; width="500" align="right">
+ <img src="https://res.cloudinary.com/cloudinary-marketing/images/c_fill,w_750/f_auto,q_auto/v1649720751/Web_Assets/blog/Mario_1/Mario_1-gif?_i=AA" height="200" ; width="400" align="right">
 
    |:house:| Taiping, Perak |
 |--|--|
    | :books: |<p>High School :<pre>  SMK St. George <p></pre>College :<pre> Perak Matriculation College</pre></p> <p>University :<pre> University Technology Malaysia </pre>|
 | :basketball:|Basketballer|
-| :computer::iphone:| Playing Games
+| :computer::iphone:| Playing Games|
  
 
