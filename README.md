@@ -9,3 +9,13 @@
 </head>
 
 <p align="justify"> I am currently a first-year student which studying Data Engineering Course at University Technology Malaysia (UTM). I have already developed 3 types of programming language such as HTML, C++ and Java. I am excited to learn more programming languages.<p>
+
+<img src="https://media4.giphy.com/media/xTiTnpcaFPfJAzaP8A/giphy.gif" style="float:right">
+🏡 Taiping, Perak.
+📚 High School : SMK St. George.
+   College : Perak Matriculation College.
+   University : University Technology Malaysia (UTM)
+🏀 Basketballer
+🖥️ Playing Computer Games
+📱 Playing Mobile Games
+
