@@ -13,12 +13,10 @@
  <hr>
  <img src="https://res.cloudinary.com/cloudinary-marketing/images/c_fill,w_750/f_auto,q_auto/v1649720751/Web_Assets/blog/Mario_1/Mario_1-gif?_i=AA" height="200" ; width="500" align="right">
 
-   <p>🏡 Taiping, Perak.</p>
-   <p>📚 High School : SMK St. George. </p>
-   <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;College : Perak Matriculation College.</p>
-   <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University : University Technology Malaysia </p>
-   <p>🏀 Basketballer</p>
-   <p>🖥️ Playing Computer Games</p>
-   <p>📱 Playing Mobile Games</p>
+   |:house:| Taiping, Perak |
+|--|--|
+| :books: |<p><pre>High School :</pre> <span style="font-family:Lucida Console"> SMK St. George <p><pre>College :</pre> Perak Matriculation College</p> <p><pre>University :</pre> University Technology Malaysia  |
+| :basketball:|Basketballer|
+| :computer::iphone:| Playing Games
  
 
