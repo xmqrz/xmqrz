@@ -12,7 +12,7 @@
 
  <hr>
   
- <img src="https://res.cloudinary.com/cloudinary-marketing/images/c_fill,w_750/f_auto,q_auto/v1649720751/Web_Assets/blog/Mario_1/Mario_1-gif?_i=AA" height="200" ; width="400" align="right" position="absolute; bottom:20px">
+ <img src="https://res.cloudinary.com/cloudinary-marketing/images/c_fill,w_750/f_auto,q_auto/v1649720751/Web_Assets/blog/Mario_1/Mario_1-gif?_i=AA" height="200" ; width="400" align="right" bottom="20px">
 
    |:house:| Taiping, Perak |
 |--|--|
