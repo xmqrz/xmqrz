@@ -8,7 +8,9 @@
 <p align="center" ; style="margin:0"><span style="font-family:Arial, Helvetica, sans-serif" >Greetings everybody, my name is <span color="aqua"><b>Marcus Joey Sayner</b></span> :wave: and I am currently 19 years old.</p>
 </head>
 
-<p align="justify"> I am currently a first-year student which studying Data Engineering Course at University Technology Malaysia (UTM). I have already developed 3 types of programming language such as HTML, C++ and Java. I am excited to learn more programming languages.<p>
+<p align="justify"> I am a first-year student
+         at University Technology Malaysia studying Data Engineering (UTM). I've already learned three 
+         types of programming languages: HTML, C++, and Java. I'm looking forward to learning more programming languages.</p>
 
  <hr>
   <p style"position:absolute ; bottom:20px">
