@@ -5,12 +5,12 @@
 
 <hr>
 
-<p align="center" ; style="margin:0"><span style="font-family:Arial, Helvetica, sans-serif" >Greetings everybody, my name is <span color="aqua"><b>Marcus Joey Sayner</b></span> :wave: and I am currently 19 years old.</p>
+<p align="center" ; style="margin:0"><span style="font-family:Arial, Helvetica, sans-serif" >Greetings everybody, my name is <span color="aqua"><b>Marcus Joey Sayner</b></span> :wave: and I am currently 21 years old.</p>
 </head>
 
-<p align="justify"> I am a first-year student
-         at University Technology Malaysia studying Data Engineering (UTM). I've already learned three 
-         types of programming languages: HTML, C++, and Java. I'm looking forward to learning more programming languages.</p>
+<p align="justify"> I am a third-year student
+         at University Technology Malaysia studying Data Engineering (UTM). I've already learned lots of 
+         type of programming languages. I'm looking forward to learning more programming languages.</p>
 
  <hr>
   <p style"position:absolute ; bottom:20px">
