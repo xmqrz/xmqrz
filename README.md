@@ -10,7 +10,7 @@
 
 <p align="justify"> I am a third-year student
          at University Technology Malaysia studying Data Engineering (UTM). I've already learned lots of 
-         type of programming languages. I'm looking forward to learning more programming languages.</p>
+         programming languages. I'm looking forward to learning more programming languages.</p>
 
  <hr>
   <p style"position:absolute ; bottom:20px">
